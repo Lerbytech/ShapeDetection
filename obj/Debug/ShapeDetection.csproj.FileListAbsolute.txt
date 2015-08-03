@@ -1,0 +1,7 @@
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\bin\Example.ShapeDetection.exe
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\bin\Example.ShapeDetection.pdb
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\Emgu.CV.Example\ShapeDetection\obj\Debug\ShapeDetection.MainForm.resources
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\Emgu.CV.Example\ShapeDetection\obj\Debug\ShapeDetection.csproj.GenerateResource.Cache
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\Emgu.CV.Example\ShapeDetection\obj\Debug\Example.ShapeDetection.exe
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\Emgu.CV.Example\ShapeDetection\obj\Debug\Example.ShapeDetection.pdb
+C:\Emgu\emgucv-windows-universal 3.0.0.2157\Emgu.CV.Example\ShapeDetection\obj\Debug\ShapeDetection.csprojResolveAssemblyReference.cache
